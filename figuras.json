@@ -1,0 +1,11 @@
+{
+    "rectangles": [
+      { "x": 50, "y": 150, "width": 120, "height": 60, "fill": "blue", "stroke": "black", "strokeWidth": 2 },
+      { "x": 200, "y": 150, "width": 120, "height": 60, "fill": "green", "stroke": "black", "strokeWidth": 2 }
+    ],
+    "images": {
+      "source": "imagenes/chair.png",
+      "imageSize": 30,
+      "padding": 5
+    }
+  }

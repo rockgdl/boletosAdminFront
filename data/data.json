@@ -1,0 +1,8 @@
+{
+  "rectangles": [
+    { "x": 50, "y": 50, "width": 120, "height": 60, "color": "lightblue" }
+  ],
+  "places": [
+    { "image": "imagenes/chair.png", "size": 30, "padding": 3 }
+  ]
+}
